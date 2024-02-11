@@ -1,0 +1,73 @@
+//--- WARNING DO NOT ADD FILE TO Gameplay.Json, THIS FILE WILL CAUSE IRREVERSIBLE DAMAGE TO SERVER----//
+
+I have taken the liberty to spreading out the survivors into categorys, These categories represent the different loadouts i have customly configured for the use in communtiy servers. 
+Please use them accordingly and alter them to your needs.
+<--- Survivor Categories ---> 
+
+//------ Military ------//
+
+//-- Military TTSKO --//
+
+"SurvivorF_Maria",
+"SurvivorF_Baty",
+"SurvivorM_Boris",
+"SurvivorM_Niki"
+
+//-- Military Dark Woodland --//
+
+"SurvivorF_Frida",
+"SurvivorF_Gabi",
+"SurvivorM_Denis",
+"SurvivorM_Elias"
+
+//-- Military Summer --//
+
+"SurvivorF_Helga",
+"SurvivorF_Irena",
+"SurvivorM_Peter",
+"SurvivorM_Quinn"
+
+//------ Military ------//
+
+//------ SpecialLoadouts ------//
+
+//-- Agent 22 --//
+
+"SurvivorM_Mirek",
+"SurvivorM_Hassan",
+"SurvivorM_Cyril",
+"SurvivorM_Jose"
+
+//--Red Kit--//
+
+"SurvivorF_Eva",
+"SurvivorM_Indar",
+"SurvivorM_Francis"
+
+//------ SpecialLoadouts ------//
+
+//------ CIV ------//
+
+//-- Hunter --//
+"SurvivorF_Judy",
+"SurvivorM_Rolf",
+"SurvivorM_Kaito",      
+"SurvivorM_Lewis",
+"SurvivorM_Manua",
+"SurvivorM_Guo"
+
+
+//-- Hiker --//
+"SurvivorF_Keiko",
+"SurvivorF_Linda",
+"SurvivorF_Naomi",
+"SurvivorM_Taiki",
+"SurvivorM_Oliver",
+"SurvivorM_Seth"
+
+//------ CIV ------//
+
+<--- Survivor Categories --->  
+
+
+//--- WARNING DO NOT ADD FILE TO Gameplay.Json, THIS FILE WILL CAUSE IRREVERSIBLE DAMAGE TO SERVER----//

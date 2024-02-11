@@ -22,7 +22,7 @@ These six survivors will spawn with the hunting loadout that has been configured
 
 I have made six custom spawn loadouts set with predetermined gear and a unique way to give your players a scare upon loading onto your server. You are more than welcome to use these files for your server/ or alter them to your needs. 
 
-I plan on making a lot more custom loadouts, and making separate versions of the current ones that have already been made.
+I plan on making more custom loadouts, and altering the current versions that have already been made.
 
 If you would like some custom loadouts or have any suggestions feel free to contact me here. 
 

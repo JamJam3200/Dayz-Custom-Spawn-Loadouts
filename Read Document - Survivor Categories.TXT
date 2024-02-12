@@ -2,6 +2,10 @@
 
 I have taken the liberty to spreading out the survivors into categorys, These categories represent the different loadouts i have customly configured for the use in communtiy servers. 
 Please use them accordingly and alter them to your needs.
+
+
+These categories are an example of what can be done, you can have them however you like your only limit is how many survivor names there are.
+
 <--- Survivor Categories ---> 
 
 //------ Military ------//
